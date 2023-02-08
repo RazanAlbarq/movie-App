@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "0L8-3G-YFG"; */
+"0L8-3G-YFG.text" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3e5-xD-0vp"; */
+"3e5-xD-0vp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "new password"; ObjectID = "6pm-7X-wwD"; */
+"6pm-7X-wwD.text" = "new password";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "7DB-GT-lJa"; */
+"7DB-GT-lJa.text" = "Confirm password";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "9LI-Q9-csM"; */
+"9LI-Q9-csM.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "Enter yor password"; ObjectID = "Buy-bG-82v"; */
+"Buy-bG-82v.placeholder" = "Enter yor password";
+
+/* Class = "UILabel"; text = "Movie App"; ObjectID = "CIf-5t-irS"; */
+"CIf-5t-irS.text" = "Movie App";
+
+/* Class = "UIButton"; configuration.title = "Login "; ObjectID = "KU9-ph-TAs"; */
+"KU9-ph-TAs.configuration.title" = "Login ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KU9-ph-TAs"; */
+"KU9-ph-TAs.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Signup"; ObjectID = "NbO-Fn-VbO"; */
+"NbO-Fn-VbO.configuration.title" = "Signup";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NbO-Fn-VbO"; */
+"NbO-Fn-VbO.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Register now"; ObjectID = "REI-LH-6IT"; */
+"REI-LH-6IT.configuration.title" = "Register now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "REI-LH-6IT"; */
+"REI-LH-6IT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "TgP-Js-NJT"; */
+"TgP-Js-NJT.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "Enter your username"; ObjectID = "Xh4-v0-C5H"; */
+"Xh4-v0-C5H.placeholder" = "Enter your username";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "ZQq-k7-2bo"; */
+"ZQq-k7-2bo.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZQq-k7-2bo"; */
+"ZQq-k7-2bo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Watching at home"; ObjectID = "awe-uC-eIB"; */
+"awe-uC-eIB.text" = "Watching at home";
+
+/* Class = "UILabel"; text = "Watch on Smart TVs, Playstation, Xbox,Chromecast, Apple Tv, Blu-ray players, and more."; ObjectID = "duw-U6-qBi"; */
+"duw-U6-qBi.text" = "Watch on Smart TVs, Playstation, Xbox,Chromecast, Apple Tv, Blu-ray players, and more.";
+
+/* Class = "UITextField"; placeholder = "Confirm yor password"; ObjectID = "gHG-jx-MRJ"; */
+"gHG-jx-MRJ.placeholder" = "Confirm yor password";
+
+/* Class = "UITextField"; placeholder = "enter yor password"; ObjectID = "j6J-Rf-5nY"; */
+"j6J-Rf-5nY.placeholder" = "enter yor password";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "jCm-cO-n9J"; */
+"jCm-cO-n9J.text" = "username";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "jWx-N0-LK9"; */
+"jWx-N0-LK9.placeholder" = "Enter your email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jb8-IN-aQc"; */
+"jb8-IN-aQc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "loX-SS-v1P"; */
+"loX-SS-v1P.text" = "Email";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "mZR-qk-CcB"; */
+"mZR-qk-CcB.text" = "Sign in";
+
+/* Class = "UILabel"; text = "Watching at home"; ObjectID = "otO-A6-Ree"; */
+"otO-A6-Ree.text" = "Watching at home";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "pV8-6f-lqO"; */
+"pV8-6f-lqO.placeholder" = "Enter your email";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "qFI-0V-KBH"; */
+"qFI-0V-KBH.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qFI-0V-KBH"; */
+"qFI-0V-KBH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Watch on Smart TVs, Playstation, Xbox,Chromecast, Apple Tv, Blu-ray players, and more."; ObjectID = "xMQ-o9-zkA"; */
+"xMQ-o9-zkA.text" = "Watch on Smart TVs, Playstation, Xbox,Chromecast, Apple Tv, Blu-ray players, and more.";

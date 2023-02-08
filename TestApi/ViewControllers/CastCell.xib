@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CastCell" id="gTV-IL-0wX" customClass="CastCell" customModule="TestApi" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="181" height="200"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="181" height="200"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="70J-6o-DrO">
+                        <rect key="frame" x="10" y="10" width="161" height="180"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="4vu-1R-xRP" customClass="FAImageView">
+                                <rect key="frame" x="4" y="4" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="120" id="Nd9-Ro-R6A"/>
+                                    <constraint firstAttribute="width" secondItem="4vu-1R-xRP" secondAttribute="height" multiplier="1:1" id="nau-wd-Pow"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="cornerIsCircle" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="4vu-1R-xRP" firstAttribute="leading" secondItem="70J-6o-DrO" secondAttribute="leading" constant="4" id="hu7-xp-iny"/>
+                            <constraint firstItem="4vu-1R-xRP" firstAttribute="top" secondItem="70J-6o-DrO" secondAttribute="top" constant="4" id="ocA-TE-fKy"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="70J-6o-DrO" secondAttribute="bottom" constant="10" id="4HX-ze-uIG"/>
+                <constraint firstItem="70J-6o-DrO" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="ImV-nd-Ati"/>
+                <constraint firstAttribute="trailing" secondItem="70J-6o-DrO" secondAttribute="trailing" constant="10" id="jf7-x3-bmH"/>
+                <constraint firstItem="70J-6o-DrO" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="10" id="vyQ-hO-UTA"/>
+            </constraints>
+            <size key="customSize" width="404" height="214"/>
+            <connections>
+                <outlet property="movieImage" destination="4vu-1R-xRP" id="CSO-bF-xKL"/>
+            </connections>
+            <point key="canvasLocation" x="278.62595419847327" y="-23.943661971830988"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

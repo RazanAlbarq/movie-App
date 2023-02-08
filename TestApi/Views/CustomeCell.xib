@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CustomeCell" rowHeight="469" id="KGk-i7-Jjw" customClass="CustomeCell" customModule="TestApi" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="916" height="469"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="916" height="469"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5qs-Lw-aCI" customClass="FSPagerView" customModule="FSPagerView">
+                        <rect key="frame" x="20" y="11" width="876" height="350"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="350" id="bNa-6b-rq1"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="5qs-Lw-aCI" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="5Mi-7y-FkG"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="5qs-Lw-aCI" secondAttribute="trailing" id="68Y-LC-78o"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="5qs-Lw-aCI" secondAttribute="bottom" id="JPh-FM-Kcn"/>
+                    <constraint firstItem="5qs-Lw-aCI" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" id="Pdz-4K-lEn"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="pagerView" destination="5qs-Lw-aCI" id="6ec-fs-LSd"/>
+            </connections>
+            <point key="canvasLocation" x="-54.961832061068698" y="36.971830985915496"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FADesignable (0.1.5):
+    - "UITextView+Placeholder"
+  - FSPagerView (0.8.3)
+  - Kingfisher (7.4.1)
+  - Pageboy (4.0.2)
+  - SideMenu (6.5.0)
+  - SwiftyStarRatingView (1.0.4)
+  - Tabman (3.0.1):
+    - Pageboy (~> 4.0.2)
+  - UIGradient (1.3.2)
+  - "UITextView+Placeholder (1.4.0)"
+
+DEPENDENCIES:
+  - Alamofire
+  - FADesignable
+  - FSPagerView
+  - Kingfisher
+  - SideMenu
+  - SwiftyStarRatingView
+  - Tabman
+  - UIGradient
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FADesignable
+    - FSPagerView
+    - Kingfisher
+    - Pageboy
+    - SideMenu
+    - SwiftyStarRatingView
+    - Tabman
+    - UIGradient
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FADesignable: bb71c8f922db8c7ddf44c961590f8ef60f56d4fa
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  Kingfisher: cd762a593a61b2fbecf7645c00f9a801a3ebfc9c
+  Pageboy: 34ff11e8d1041b81769d5bcde9b19a0cb7218bd9
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwiftyStarRatingView: a2b0057700e0adeb8e7442c55d99cb53b531d2f4
+  Tabman: a5880789298f81d3f2cdd6510b54ae637cfd8e09
+  UIGradient: 2364e9ebac232686db220713b4d42a68222fffb2
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+
+PODFILE CHECKSUM: 6e3291cbaec3b4f21536ef07fded554e9a7ff2ab
+
+COCOAPODS: 1.11.3

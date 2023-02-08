@@ -1,0 +1,114 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "10v-Yh-M9m"; */
+"10v-Yh-M9m.text" = "Label";
+
+/* Class = "UILabel"; text = "Search Movies"; ObjectID = "2EV-CG-Ibw"; */
+"2EV-CG-Ibw.text" = "Search Movies";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2RQ-az-0QL"; */
+"2RQ-az-0QL.text" = "Email";
+
+/* Class = "UILabel"; text = "WatchList"; ObjectID = "2tH-4D-Yrf"; */
+"2tH-4D-Yrf.text" = "WatchList";
+
+/* Class = "UILabel"; text = "Razan Albarq"; ObjectID = "3du-ES-loX"; */
+"3du-ES-loX.text" = "Razan Albarq";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "6K3-FJ-hOv"; */
+"6K3-FJ-hOv.text" = "Account";
+
+/* Class = "UILabel"; text = "Vote average:"; ObjectID = "8Zl-Xf-xte"; */
+"8Zl-Xf-xte.text" = "Vote average:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FGu-16-Qtp"; */
+"FGu-16-Qtp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Title:"; ObjectID = "Fgw-2r-puf"; */
+"Fgw-2r-puf.text" = "Title:";
+
+/* Class = "UISearchBar"; placeholder = "search for a movie"; ObjectID = "JUv-5z-GIK"; */
+"JUv-5z-GIK.placeholder" = "search for a movie";
+
+/* Class = "UISearchBar"; JUv-5z-GIK.scopeButtonTitles[0] = "Title"; ObjectID = "JUv-5z-GIK"; */
+"JUv-5z-GIK.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; JUv-5z-GIK.scopeButtonTitles[1] = "Title"; ObjectID = "JUv-5z-GIK"; */
+"JUv-5z-GIK.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "yuhkj"; ObjectID = "LC6-Q4-lPH"; */
+"LC6-Q4-lPH.text" = "yuhkj";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "OyZ-qx-8vc"; */
+"OyZ-qx-8vc.title" = "Movies";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pe7-KH-1zA"; */
+"Pe7-KH-1zA.text" = "Label";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Q8Z-cv-Iwy"; */
+"Q8Z-cv-Iwy.text" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QdB-jB-gxS"; */
+"QdB-jB-gxS.text" = "Label";
+
+/* Class = "UILabel"; text = "khjhjvhgvhgcghgjffffjhgghghvhvhv"; ObjectID = "RlY-cv-PoS"; */
+"RlY-cv-PoS.text" = "khjhjvhgvhgcghgjffffjhgghghvhvhv";
+
+/* Class = "UILabel"; text = "razan19"; ObjectID = "U2f-dD-eX9"; */
+"U2f-dD-eX9.text" = "razan19";
+
+/* Class = "UILabel"; text = "My Movies"; ObjectID = "aYR-0a-cnj"; */
+"aYR-0a-cnj.text" = "My Movies";
+
+/* Class = "UINavigationItem"; title = "Search Movies"; ObjectID = "awK-8i-e0v"; */
+"awK-8i-e0v.title" = "Search Movies";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bj4-7s-Yd5"; */
+"bj4-7s-Yd5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "c4M-KS-4Yb"; */
+"c4M-KS-4Yb.text" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dlI-mM-DhX"; */
+"dlI-mM-DhX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "yuhkj"; ObjectID = "fXG-gs-XAe"; */
+"fXG-gs-XAe.text" = "yuhkj";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g5b-YG-NHK"; */
+"g5b-YG-NHK.text" = "Label";
+
+/* Class = "UILabel"; text = "Vote Count:"; ObjectID = "i7R-dm-8QW"; */
+"i7R-dm-8QW.text" = "Vote Count:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "jAq-YB-ce3"; */
+"jAq-YB-ce3.text" = "Name:";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "jEh-RY-obz"; */
+"jEh-RY-obz.text" = "Setting";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "mzo-8V-swQ"; */
+"mzo-8V-swQ.text" = "Favorite";
+
+/* Class = "UILabel"; text = "Overview:"; ObjectID = "qp8-kn-HA0"; */
+"qp8-kn-HA0.text" = "Overview:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "r3V-ES-J8g"; */
+"r3V-ES-J8g.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Birthday::"; ObjectID = "rsJ-Hr-yg3"; */
+"rsJ-Hr-yg3.text" = "Birthday::";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sh0-OC-ElJ"; */
+"sh0-OC-ElJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "stW-pt-K9j"; */
+"stW-pt-K9j.text" = "Label";
+
+/* Class = "UILabel"; text = "Department:"; ObjectID = "to0-Cd-eUe"; */
+"to0-Cd-eUe.text" = "Department:";
+
+/* Class = "UILabel"; text = "Biography:"; ObjectID = "vlj-Lc-72a"; */
+"vlj-Lc-72a.text" = "Biography:";
+
+/* Class = "UILabel"; text = "Place of Birth:"; ObjectID = "ygq-sU-Wlu"; */
+"ygq-sU-Wlu.text" = "Place of Birth:";

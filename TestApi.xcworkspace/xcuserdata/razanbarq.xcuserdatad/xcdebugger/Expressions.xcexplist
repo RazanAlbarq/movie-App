@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CastView.collectionView(_:numberOfItemsInSection:):CastView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayMovies">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieView.pressVideo(_:):MovieView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "videoPlayer?.results?.first?.key">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
